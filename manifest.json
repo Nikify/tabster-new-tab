@@ -1,0 +1,15 @@
+{
+    "name": "Tabster New Tab",
+    "short_name": "Tabster",
+    "description": "The Tabster New Tab chrome extension changes the default 'New Tab' page to a simple and beautiful speed dial style page.",
+    "version": "0.2",
+    "incognito": "split",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "icons": { 
+      "16": "resources/extension_icons/16.png",
+      "48": "resources/extension_icons/48.png",
+     "128": "resources/extension_icons/128.png" },
+    "manifest_version": 2
+  }

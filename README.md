@@ -1,1 +1,1 @@
-# tabster-new-tab
+# Tabster: New Tab
