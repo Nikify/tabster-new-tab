@@ -3,7 +3,7 @@ window.addEventListener('load', function () {
 });
 
   function init(){
-    document.getElementById("bg_img").src = "resources/images/" + getRandomInt(12) + ".jpg";
+    document.getElementById("bg_img").src = "resources/images/" + getRandomInt(14) + ".jpg";
     setTimeout(function(){
       document.getElementById("bg_img").style.opacity = 0.3;
       document.getElementById("gradient").style.opacity = 1;
